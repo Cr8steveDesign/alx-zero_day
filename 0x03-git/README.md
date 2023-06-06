@@ -1,1 +1,1 @@
-Another README file for git directory
+Updated README file for git directory
